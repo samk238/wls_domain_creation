@@ -1,5 +1,9 @@
 <pre>
 # wls_domain_creation
+
+PLEASE INSTALL JAVA AND FMW before running below
+   --> check repository "java_fmw_install" for details
+
 Update "domain.properties" file as needed and run script as below
 
 If using Windows:
