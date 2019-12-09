@@ -1,4 +1,3 @@
-<pre>
 # wls_domain_creation
 
 PLEASE INSTALL JAVA AND FMW before running below
@@ -14,4 +13,3 @@ Please update the "wls_domain_creator.py" script as below for proper dir structu
 1. Search and replace "\" with "/"
 2. Save and run
    /apps/wlshome/oracle_common/common/bin/wlst.cmd  script_dir/wls_domain_creator.py
-</pre>
