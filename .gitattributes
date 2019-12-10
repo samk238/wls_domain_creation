@@ -3,3 +3,5 @@
 spec/fixtures/*.md  -text
 * -crlf
 * text=auto
+* text eol=crlf
+* text eol=lf
