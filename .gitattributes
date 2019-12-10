@@ -2,3 +2,4 @@
 # to be native to your platform.
 spec/fixtures/*.md  -text
 * -crlf
+* text=auto
