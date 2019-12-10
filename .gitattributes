@@ -5,3 +5,4 @@ spec/fixtures/*.md  -text
 * text=auto
 * text eol=crlf
 * text eol=lf
+*.properties text eol=crlf
