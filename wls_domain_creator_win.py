@@ -1,4 +1,4 @@
-#D:\apps\wlshome\oracle_common\common\bin\wlst.cmd D:\wls_domain_creator.py
+#D:\apps\wlshome\oracle_common\common\bin\wlst.cmd D:\wls_domain_creator_win.py
 import os
 import sys
 import time
